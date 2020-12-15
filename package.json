@@ -1,0 +1,11 @@
+{
+  "name": "random-studentpicker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "styles.js",
+  "scripts": {
+    "server": "live-server"
+  },
+  "author": "",
+  "license": "ISC"
+}
